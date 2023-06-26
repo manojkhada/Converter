@@ -1,8 +1,8 @@
 <?php
 
-namespace Manoj\stringconvert\Tests;
+namespace Tests;
 
-use Manoj\stringconvert\CapitalClass;
+use Manoj\CapitalClass;
 use PHPUnit\Framework\TestCase;
 
 class CapitalClassTest extends TestCase

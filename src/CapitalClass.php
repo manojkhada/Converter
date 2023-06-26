@@ -1,6 +1,6 @@
 <?php
 
-namespace Manoj\stringconvert;
+namespace Manoj;
 
 class CapitalClass
 {
