@@ -1,6 +1,6 @@
 {
     "name": "manoj-khada/stringconvert",
-    "description": "my first package",
+    "description": "Converter package",
     "license": "MIT",
     "authors": [
         {
@@ -18,12 +18,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Manoj\\stringconvert\\": "src"
+            "Manoj\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Manoj\\stringconvert\\Tests\\": "tests"
+            "Manoj\\Tests\\": "tests"
         }
     },
     "scripts": {

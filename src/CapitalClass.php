@@ -10,7 +10,3 @@ class CapitalClass
     }
 
 }
-$capitalConverter = new CapitalClass();
-$capitalWord = $capitalConverter->convertToCapital("hello");
-
-echo $capitalWord; // Output: "Hello"
